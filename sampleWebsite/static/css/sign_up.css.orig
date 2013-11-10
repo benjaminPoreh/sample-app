@@ -1,0 +1,61 @@
+.input-group{
+	container: 'body';
+}
+.form-group{
+	width:48%;
+}
+span{
+	margin:5px 60px 0 0;
+}
+<<<<<<< local
+#school_or_university_span{
+	margin:5px 20px 0 0;
+=======
+#e{
+	margin:0 13px 0 0;
+>>>>>>> other
+}
+#input_email_span{
+	margin:0 127px 0 0;
+}
+#first_name_span{
+	margin:5px 148px 0 0;
+}
+#last_name_span{
+	margin:5px 149px 0 0;
+}
+#current_employment_span{
+	margin:5px 91px 0 0;
+}
+#confirm_password_span{
+	margin:5px 101px 0 0;
+}
+#password_span{
+	margin:5px 152px 0 0;
+}
+#psychologistCheckbox_label{
+	padding:5px;
+	margin: 5px 0 0 60px;
+}
+#psychiatristCheckbox_label{
+	padding:5px;
+	margin: 5px 0 0 50px;
+}
+#psychologistCheckbox,#psychiatristCheckbox,#MD,#PHD,#PSYD{
+	margin:0 0 0 0;
+}
+#MD_label, #PHD_label, @PSYD_label{
+	padding:5px;	
+}
+#PHD_label{
+<<<<<<< local
+	margin:5px 80px 0 80px;
+=======
+	margin:0 80px 0 80px;
+>>>>>>> other
+}
+<<<<<<< local
+#sign_up_button{
+	margin: 40px 0 0 0;
+}=======
+>>>>>>> other

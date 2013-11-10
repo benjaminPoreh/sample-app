@@ -1,0 +1,46 @@
+.input-group{
+	container: 'body';
+}
+.form-group{
+	width:47%;
+}
+span{
+	margin:0 0 0 0;
+}
+#education{
+	margin:0 13px 0 0;
+}
+#date_of_birth_span{
+	margin:0 0 0 0;
+}
+#current_employment_span{
+	margin:0 85px 0 0;
+}
+#confirm_password_span{
+	margin:0 99px 0 0;
+}
+#password_span{
+	margin:0 152px 0 0;
+}
+#femaleCheckbox_label{
+	padding:5px;
+	margin: 0 0 0 60px;
+}
+#maleCheckbox_label{
+	padding:5px;
+	margin: 0 0 0 0;
+}
+#transgenderCheckbox{
+	padding:5px;
+	margin: 0 0 0 50px;
+}
+#maleCheckbox,#femaleCheckbox,#transgenderCheckbox{
+	margin:0 0 0 0;
+	padding:0 0 0 30px;
+}
+#MD_label, #PHD_label, @PSYD_label{
+	padding:5px;	
+}
+#PHD_label{
+	margin:0 80px 0 80px;
+}
